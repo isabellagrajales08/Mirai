@@ -1,0 +1,3 @@
+risk_factors:
+  - name: years_to_cancer
+  - name: BRCA2_pathogenic_status
