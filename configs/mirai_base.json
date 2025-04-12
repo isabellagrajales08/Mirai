@@ -57,3 +57,6 @@
   },
   "available_gpus": ["0,1,2,3","4,5,6,7"]
 }
+risk_factors:
+  - name: years_to_cancer
+  - name: BRCA2_pathogenic_status
