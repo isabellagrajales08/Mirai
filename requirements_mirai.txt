@@ -1,0 +1,14 @@
+torch>=1.7.0
+torchvision>=0.8.0
+tqdm
+lifelines
+pandas
+numpy
+scikit-learn
+matplotlib
+pillow
+opencv-python
+jsonlines
+pyyaml
+scipy
+joblib
